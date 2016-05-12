@@ -4,6 +4,7 @@ Data version: 20 April 2016
 
 
 Downloaded and analyzed files (source: http://base-donnees-publique.medicaments.gouv.fr/telechargement.php)
+Other source for Drugs Open Data in France: https://www.data.gouv.fr/fr/search/?q=medicaments
 
 | Index  | File Name | Number of columns | Number of lines | 
 | ------------- | ------------- |-------------|-------------|

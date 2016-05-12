@@ -3,7 +3,7 @@ Latest update:
 Data version: 20 April 2016
 
 
-## Files
+## Downloaded Files (source: http://base-donnees-publique.medicaments.gouv.fr/telechargement.php)
 
 | Index  | File Name | Number of columns | Number of lines | 
 | ------------- | ------------- |-------------|-------------|
